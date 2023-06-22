@@ -14,8 +14,8 @@ namespace Helper.Dapper
 
         public static SqlConnection GetConnection()
         {
-           //String ConnectionStrings = "Server=DESKTOP-IC5S7IR;database=OnlineExamination;Integrated Security=true;Trust Server Certificate= True; ";
-            String ConnectionStrings = "Server=WIN-PLO3PGFAQN8\\SQLEXPRESS;Database=OnlineExamination;user id=sa;password=sa@123;MultipleActiveResultSets=true;Encrypt=false;";
+           String ConnectionStrings = "Server=DESKTOP-IC5S7IR;database=OnlineExamination;Integrated Security=true;Trust Server Certificate= True; ";
+           // String ConnectionStrings = "Server=WIN-PLO3PGFAQN8\\SQLEXPRESS;Database=OnlineExamination;user id=sa;password=sa@123;MultipleActiveResultSets=true;Encrypt=false;";
 
             var sqlconnection = new SqlConnection(ConnectionStrings);
             sqlconnection.Open();

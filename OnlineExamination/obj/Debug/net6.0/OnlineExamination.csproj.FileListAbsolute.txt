@@ -83,3 +83,7 @@ C:\Users\HP\source\repos\OnlineExamination\OnlineExamination\obj\Debug\net6.0\On
 C:\Users\HP\source\repos\OnlineExamination\OnlineExamination\obj\Debug\net6.0\OnlineExamination.genruntimeconfig.cache
 C:\Users\HP\source\repos\OnlineExamination\OnlineExamination\obj\Debug\net6.0\ref\OnlineExamination.dll
 C:\Users\HP\source\repos\OnlineExamination\OnlineExamination\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\HP\source\repos\OnlineExamination\OnlineExamination\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\HP\source\repos\OnlineExamination\OnlineExamination\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HP\source\repos\OnlineExamination\OnlineExamination\bin\Debug\net6.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\HP\source\repos\OnlineExamination\OnlineExamination\bin\Debug\net6.0\Nancy.dll

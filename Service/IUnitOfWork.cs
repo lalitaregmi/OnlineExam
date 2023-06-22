@@ -17,5 +17,8 @@ namespace Service
         public LoginService loginservice { get; }
         public TerminalService terminalservice { get; }
         public QuestionService questionservice { get; }
+        public OnlineExamQuestionService onlineexamquestionservice { get; }
+        public ImageService imageservice { get; }
+        public NotifyService notifyservice { get; }
     }
 }

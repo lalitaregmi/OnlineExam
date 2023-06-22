@@ -17,7 +17,7 @@ namespace Models.Model
         public string Expiry { get; set; }
         public string IsActive { get; set; }
         public string UserID { get; set; }
-    
+
     }
 
 }
